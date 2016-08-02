@@ -10,8 +10,8 @@ Seller: http://admin.ecommerce.aisel.co/en/ [seller@aisel.co/seller]<br/>
 
 Installation
 -----------------------------------
-1. git clone git@github.com:ivanproskuryakov/Aisel.git
-2. cd Aisel
+1. git clone https://github.com/nicolassavin18/PHP-Angular.git
+2. cd ./PHP-Angular/Symphony+Angular/
 3. composer install
 4. bin/console aisel:install
 5. Give permissions to following directories: 
